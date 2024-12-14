@@ -1,0 +1,92 @@
+Access Denied
+Forbidden
+You don't have permission to access this resource
+403 Forbidden
+Request blocked by security rules
+Access Denied by Web Application Firewall
+Malicious Request
+Suspicious Activity Detected
+Blocked due to potential threat
+Malicious Traffic Blocked
+Possible SQL Injection attempt detected
+Potential Cross-Site Scripting (XSS) attack blocked
+Suspicious Parameter detected
+Your IP address has been blocked
+Access from your location is restricted
+Your IP is blacklisted
+Geo-blocking: Access Denied from this region
+Request contains illegal characters
+Invalid input detected
+Input violates security policies
+Request contains forbidden content
+Request exceeds allowed size
+Request blocked by WAF rule
+Security rules triggered
+WAF Protection: Request blocked
+Request blocked by Web Security Rule
+Bot detected: Access blocked
+Automated access detected
+Request blocked due to bot activity
+Crawler detected and blocked
+Rate limit exceeded
+Captcha validation failed
+Please complete the CAPTCHA
+Invalid CAPTCHA response
+Bot protection failed
+Session expired
+Invalid session cookie
+Session hijacking attempt detected
+Cookie tampering detected
+Invalid headers detected
+Malformed request header
+Request header contains forbidden content
+SQL Injection attack detected
+Cross-site Scripting (XSS) attempt blocked
+Potential command injection attempt
+Request contains malicious payload
+访问被拒绝
+禁止访问
+您没有权限访问此资源
+403 禁止访问
+请求被安全规则阻止
+访问被Web应用防火墙拒绝
+恶意请求
+检测到可疑活动
+由于潜在威胁被阻止
+恶意流量被阻止
+检测到可能的SQL注入尝试
+潜在的跨站脚本（XSS）攻击被阻止
+检测到可疑参数
+您的IP地址已被封禁
+您的位置的访问已被限制
+您的IP已被列入黑名单
+地理封禁：来自此地区的访问被拒绝
+请求包含非法字符
+检测到无效输入
+输入违反安全策略
+请求包含禁止内容
+请求超过允许的大小
+请求被WAF规则阻止
+安全规则触发
+WAF保护：请求被阻止
+请求被Web安全规则阻止
+检测到爬虫：访问被阻止
+检测到自动化访问
+由于爬虫活动请求被阻止
+检测到爬虫并被阻止
+超出请求频率限制
+验证码验证失败
+请完成验证码
+无效的验证码响应
+爬虫保护失败
+会话已过期
+无效的会话Cookie
+检测到会话劫持尝试
+检测到Cookie篡改
+检测到无效的请求头
+请求头格式不正确
+请求头包含禁止的内容
+检测到SQL注入攻击
+阻止了跨站脚本（XSS）攻击
+检测到潜在的命令注入尝试
+请求包含恶意载荷
